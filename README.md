@@ -40,9 +40,7 @@ A secondary page includes a pivot-style drill-down view for deeper exploration b
 - **Multi-Row Cards**: Gender-wise summary
 - **Slicers**: Policy Number, Claim Number, Customer ID
 
-### 📊 Page 2 (Pivot Table View)
-- Drill-through enabled by Policy Type
-- Interactive pivot table filtered by shared slicers
+### 📊 Page 2 (Coming Soon)
 
 ---
 
@@ -84,16 +82,10 @@ A secondary page includes a pivot-style drill-down view for deeper exploration b
 - Data imported via MS SQL Server
 - Cleaning, transformation, and dashboard creation done
 
-### 🔜 Upcoming:
-- Publish to Power BI Service
-- Schedule auto-refresh from SQL Server
-- Implement and test **Row-Level Security (RLS)**
-
-## 🔄 Planned Power BI Service Features
+## 🔜 Upcoming 🔄 Planned Power BI Service Features
 - **Publishing**: The dashboard will be hosted on Power BI Service for cloud accessibility
 - **Scheduled Refresh**: Automated refresh configured to sync live data from MS SQL Server
 - **Security**: Row-Level Security (RLS) will be used to restrict data visibility based on user roles
-
 
 ---
 
