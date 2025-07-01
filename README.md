@@ -30,7 +30,7 @@ A secondary page includes a pivot-style drill-down view for deeper exploration b
 
 ## 📈 Visuals Included
 
-### 📄 Page 1 (Dashboard)
+### 📊 Page 1 (Dashboard)
 - **KPI Cards**: Total Premium, Coverage, and Claim Amounts
 - **Donut Chart**: Policy Active vs Inactive
 - **Stacked Bar Chart**: Premium by Policy Type
